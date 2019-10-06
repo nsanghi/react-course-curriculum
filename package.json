@@ -1,7 +1,7 @@
 {
-  "name": "github-battle",
+  "name": "hacker-news",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hacker News client.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
